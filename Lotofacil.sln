@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotofacil", "Lotofacil\Lotofacil.csproj", "{2E57A669-AF03-47B3-A8CA-122F77BE84DB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Simulator", "Simulator\Simulator.vdproj", "{7848D4CA-932A-4196-90D9-FC888B625C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E57A669-AF03-47B3-A8CA-122F77BE84DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E57A669-AF03-47B3-A8CA-122F77BE84DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E57A669-AF03-47B3-A8CA-122F77BE84DB}.Debug|x86.ActiveCfg = Debug|x86
+		{2E57A669-AF03-47B3-A8CA-122F77BE84DB}.Debug|x86.Build.0 = Debug|x86
+		{2E57A669-AF03-47B3-A8CA-122F77BE84DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E57A669-AF03-47B3-A8CA-122F77BE84DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E57A669-AF03-47B3-A8CA-122F77BE84DB}.Release|x86.ActiveCfg = Release|x86
+		{2E57A669-AF03-47B3-A8CA-122F77BE84DB}.Release|x86.Build.0 = Release|x86
+		{7848D4CA-932A-4196-90D9-FC888B625C9E}.Debug|Any CPU.ActiveCfg = Debug
+		{7848D4CA-932A-4196-90D9-FC888B625C9E}.Debug|x86.ActiveCfg = Debug
+		{7848D4CA-932A-4196-90D9-FC888B625C9E}.Release|Any CPU.ActiveCfg = Release
+		{7848D4CA-932A-4196-90D9-FC888B625C9E}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F0E94F8-69D1-4BEE-8243-86353F705010}
+	EndGlobalSection
+EndGlobal

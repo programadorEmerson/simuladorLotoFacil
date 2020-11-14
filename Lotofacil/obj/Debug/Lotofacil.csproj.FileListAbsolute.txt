@@ -1,0 +1,17 @@
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\obj\Debug\Lotofacil.csprojAssemblyReference.cache
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\obj\Debug\Lotofacil.Form1.resources
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\obj\Debug\Lotofacil.Properties.Resources.resources
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\obj\Debug\Lotofacil.csproj.GenerateResource.cache
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\obj\Debug\Lotofacil.csproj.CoreCompileInputs.cache
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\bin\Debug\Lotofacil.exe.config
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\bin\Debug\Lotofacil.exe
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\bin\Debug\Lotofacil.pdb
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\obj\Debug\Lotofacil.exe
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\obj\Debug\Lotofacil.pdb
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\bin\Debug\ExcelDataReader.DataSet.dll
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\bin\Debug\ExcelDataReader.dll
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\bin\Debug\ExcelDataReader.pdb
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\bin\Debug\ExcelDataReader.xml
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\bin\Debug\ExcelDataReader.DataSet.xml
+C:\src\Desenvolvimento\Csharp\Lotofacil\Lotofacil\Lotofacil\obj\Debug\Lotofacil.csproj.CopyComplete
